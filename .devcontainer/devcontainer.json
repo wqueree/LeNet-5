@@ -1,0 +1,8 @@
+{
+    "name": "TensorFlow",
+    "image": "tensorflow/tensorflow:latest-gpu",
+    "runArgs": [
+        "--gpus",
+        "all"
+    ]
+}
